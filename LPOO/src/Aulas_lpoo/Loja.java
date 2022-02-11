@@ -7,7 +7,12 @@ public class Loja {
 	static Scanner ler = new Scanner (System.in);
 	
 	public static void main(String[] args) {
+
+	
 		
+		
+		
+		/*
 		final int TAM = 3;
 		int nome[] = new int[TAM];
 		
@@ -49,6 +54,8 @@ public class Loja {
         }while(opcao !='6');
 
 	}
+	
+	*/
 	/*
 	static void preencherVetor(int [] n) {
 		for(int i=0; i < n.length; i++) {
@@ -70,5 +77,8 @@ public class Loja {
 	//static String mostrarComissao(float c,float tv) {
 	
 	//}
+		
+
+	}
 }
 
